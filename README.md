@@ -1,4 +1,4 @@
-![Header](./GitHub2M.png)
+![Header](./GitHub.png)
 
 
 ## About Me
